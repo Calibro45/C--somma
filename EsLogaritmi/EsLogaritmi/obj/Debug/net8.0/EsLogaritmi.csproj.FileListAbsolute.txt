@@ -1,0 +1,14 @@
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\bin\Debug\net8.0\EsLogaritmi.exe
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\bin\Debug\net8.0\EsLogaritmi.deps.json
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\bin\Debug\net8.0\EsLogaritmi.runtimeconfig.json
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\bin\Debug\net8.0\EsLogaritmi.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\bin\Debug\net8.0\EsLogaritmi.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.AssemblyInfoInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.AssemblyInfo.cs
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.csproj.CoreCompileInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\refint\EsLogaritmi.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\EsLogaritmi.genruntimeconfig.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\EsLogaritmi\EsLogaritmi\obj\Debug\net8.0\ref\EsLogaritmi.dll
